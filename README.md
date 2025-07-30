@@ -70,10 +70,12 @@ SHA-256: algoritmo de hash não reversível, ideal para proteger senhas.
 
 ---
 
-👨‍💻 Autoria
+## 🧠 Autoria
 
-Projeto desenvolvido por [Seu Nome Aqui] como parte dos estudos de POO, segurança básica e padrões de projeto em Java.
-Contribuições, melhorias e feedbacks são bem-vindos!
+Este projeto foi desenvolvido por **Laura Felício** como parte dos estudos sobre Segurança da Informação, Java, POO, Design Patterns e para a conclusão do desafio de projeto **“Design Patterns com Java: Dos Clássicos (GoF) ao Spring Framework”**, ministrado por Venilton Falvo Junior (https://github.com/falvojr) e oferecido pela plataforma **DIO**.
 
-> ✉️ linkedin.com/in/seu-perfil
-🧑‍💻 github.com/seu-usuario
+> ⚠️ Este repositório tem fins didáticos e pode conter ajustes em andamento.  
+> 💬 Contribuições, sugestões ou correções são bem-vindas via GitHub:
+> 🔗 [https://github.com/lxfelicio/cofre-de-senhas](https://github.com/lxfelicio/cofre-de-senhas)
+
+🧑‍💻 Criado com 🛡️, 🔐 e 🧩 por [Laura Felício](https://github.com/lxfelicio)
